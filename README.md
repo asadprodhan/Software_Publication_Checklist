@@ -22,7 +22,7 @@
 <br />
 
 
-### For releasing and indexing your next research software package  
+### For releasing and indexing a bioinformatics software package  
 
 
 This checklist summarises the full workflow that achieves maximum visibility, reproducibility, and citation credit.
