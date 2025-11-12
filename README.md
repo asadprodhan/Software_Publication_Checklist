@@ -62,11 +62,12 @@ This checklist summarises the full workflow that achieves maximum visibility, re
 
 ```
 
-### If Uploading Manually
+### Fill up Zenodo Metadata
 - [ ] Add a **clear title** and a concise description.  
-- [ ] Include structured sections: **Abstract**, **Introduction**, **Implementation**, **Features**.  
+- [ ] Include structured sections: **Abstract**, **Introduction**, **Implementation**, **Features** in the description box. **This text will show up when someone clicks the DOI.**  
 - [ ] Choose an appropriate resource type: **Journal article** or **Software**.  
 - [ ] Add relevant keywords: *bioinformatics, genomics, diagnostics, automation*, etc.
+- [ ] Upload a PDF file of the article or tech note. **This is critical for the Google Scholar's crawlers to index the publication.**
 
 ---
 
