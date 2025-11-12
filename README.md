@@ -68,8 +68,8 @@ This checklist summarises the full workflow that achieves maximum visibility, re
 
 ### Announce the Release
 - [ ] Share the DOI and Zenodo link on **LinkedIn**, **X (Twitter)**, or **ResearchGate**.  
-- [ ] Include your **institutional affiliation** (e.g., DPIRD, Murdoch, UWA).  
-- [ ] Use simple visuals (e.g., *“Messy database → blastdbbuilder → tidy, faster searches”*).  
+- [ ] Include your **institutional affiliation**.  
+- [ ] Use simple visuals.  
 - [ ] Mention the software in **presentations**, **seminars**, and **workshops**.
 
 ---
